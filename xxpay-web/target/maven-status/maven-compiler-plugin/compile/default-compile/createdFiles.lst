@@ -1,0 +1,6 @@
+org\xxpay\web\service\PayOrderServiceClient.class
+org\xxpay\web\service\PayChannelServiceClient.class
+org\xxpay\web\service\MchInfoServiceClient.class
+org\xxpay\XxPayWebApplication.class
+org\xxpay\web\controller\PayOrderController.class
+org\xxpay\web\controller\QueryPayOrderController.class
